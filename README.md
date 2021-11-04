@@ -30,7 +30,7 @@
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </div><br/>
 
-Sempre em busca de aprender...
+Sempre em busca de aprender com novos desafios...
 
 
 <!--
