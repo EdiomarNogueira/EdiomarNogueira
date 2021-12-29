@@ -36,6 +36,7 @@ Sempre em busca de aprender com novos desafios...
 
 ![EdiomarNogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdiomarNogueira&show_icons=true&theme=dracula)
 
+[![EdiomarNogueira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ediomar_Nogueira)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **EdiomarNogueira/EdiomarNogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
